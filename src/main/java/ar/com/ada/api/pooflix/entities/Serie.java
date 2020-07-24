@@ -8,7 +8,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Serie extends Contenido {
 
     private List<Temporada> temporadas = new ArrayList<>();
-
     private int cantidadDeTemporadas;
 
     public int getCantidadDeTemporadas() {
