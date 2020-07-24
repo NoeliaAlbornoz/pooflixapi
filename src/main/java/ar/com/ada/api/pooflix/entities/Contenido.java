@@ -6,22 +6,12 @@ public class Contenido {
 
     // Id del documento dentro de la coleccion
     private ObjectId _id;
-
     private String nombre;
-
     private String clasificacion;
-
     private double calificacion;
-
     private String genero;
-
     private int anio;
-
     private String descripcion;
-
-    public void reproducir() {
-
-    }
 
     public String getNombre() {
         return nombre;
