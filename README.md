@@ -1,0 +1,1 @@
+WEB API. Proyecto Spring Boot. Deployado (Heroku). Base de datos MongoDB (no relacional). Pooflix es una plataforma de distribución de contenidos audiovisuales, tales como series o películas. Estos contenidos pueden cargarse o listarse. Se utilizó Postman para probar la WEB API. Se deployó con Heroku (url: https://pooflixapi.herokuapp.com).
