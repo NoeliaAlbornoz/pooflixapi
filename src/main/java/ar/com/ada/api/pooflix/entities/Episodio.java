@@ -3,11 +3,8 @@ package ar.com.ada.api.pooflix.entities;
 public class Episodio {
 
     private int numero;
-
     private String nombre;
-
     private int duracionEnMinutos;
-
     private String descripcion;
 
     // Creando getters y setters

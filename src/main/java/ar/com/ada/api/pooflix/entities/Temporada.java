@@ -5,9 +5,7 @@ import java.util.*;
 public class Temporada {
 
     private int numero;
-
     private int anio;
-
     private List<Episodio> episodios = new ArrayList<>();
 
     public int getNumero() {
